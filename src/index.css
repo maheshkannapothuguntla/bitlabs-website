@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: #212529; */
+  background-color:  #151519;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+a:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+button:focus {
+  outline: none;
+}
+ul {
+  padding-inline-start: 0px;
+}

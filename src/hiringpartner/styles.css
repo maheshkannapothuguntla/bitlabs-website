@@ -1,0 +1,158 @@
+.hiring-main {
+  background-color: #ffffff;
+  width: 100%;
+}
+.hiring-padding {
+  padding-bottom: 50px;
+}
+.our-hiring-partners {
+  color: #151519;
+  font-family: "Roboto", sans-serif;
+  font-size: 34px;
+  font-weight: 500;
+  letter-spacing: -0.15px;
+  line-height: 30px;
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+.patner-adjust{
+   flex: 0 0 8.333333%;
+  max-width: 8.333333%;;
+}
+.bg-hiring-main {
+  max-width: 1400px;
+  margin: auto;
+}
+.row-align-hiring {
+  max-width: 1220px;
+  margin: auto;
+ padding-left: 30px;
+}
+.hiring-image img{
+  height: 49px;
+}
+.hawlett{
+  padding-left: 0px;
+}
+
+.padding-hiring {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  flex: 0 0 13.333333%;
+  max-width: 14.333333%;;
+}
+@media screen and (max-width: 600px) {
+  .our-hiring-partners {
+    color: #151519;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: -0.15px;
+    line-height: 30px;
+    padding-top: 15px;
+    padding-bottom: 0px;
+  }
+  .hiring-image img {
+    height: 35px;
+    max-width: 120%;
+  }
+  .davinta {
+    padding-left: 5px;
+    padding-right: 0px;
+}
+.hawlett {
+  padding-left: 0px;
+}
+  .padding-hiring {
+    padding-bottom: 10px;
+    padding-top: 10px;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .hiring-padding {
+    padding-top: 0px;
+    padding-bottom: 10px;
+  }
+  .image1 {
+    height: 28px;
+    width: 79px;
+  }
+  .image2 {
+    height: 33px;
+    width: 67px;
+  }
+  .image3 {
+    height: 29px;
+    width: 78px;
+  }
+  .image4 {
+    height: 23px;
+    width: 62px;
+  }
+  .image5 {
+    height: 23px;
+    width: 84px;
+  }
+  .image6 {
+    height: 67px;
+    width: 67px;
+  }
+  .py-5 {
+    padding-bottom: 1.5rem!important;
+}
+.accordian-main {
+  padding-bottom: 30px;
+}
+.row-align-hiring {
+  padding-left: 0px;
+}
+}
+@media (min-width: 601px) and (max-width: 770px) {
+  .hiring-image img {
+    height: 36px;
+    padding-bottom: 10px;
+  }
+  .our-hiring-partners {
+padding-top: 25px;
+    padding-bottom: 20px;
+}
+.hiring-padding {
+  padding-bottom: 40px;
+}
+.row-align-hiring {
+  /* max-width: 1200px; */
+  margin-left: 0px;
+}
+.hawlett {
+  padding-left: 15px;
+}
+.davinta {
+  padding-left: 20px;
+  padding-right: 0px;
+}
+}
+@media (min-width: 771px) and (max-width: 1025px){
+  .hiring-image img {
+    height: 43px;
+    padding-bottom: 10px;
+  }
+  .row-align-hiring {
+    /* max-width: 1200px; */
+    margin-left: 25px;
+  }
+  .hawlett {
+    padding-left: 15px;
+  }
+  .davinta {
+    padding-left: 20px;
+    padding-right: 0px;
+  }
+
+}
+@media (min-width: 1026px) and (max-width: 1196px){
+
+  .hiring-image img {
+    height: 43px;
+    padding-bottom: 10px;
+  }
+}

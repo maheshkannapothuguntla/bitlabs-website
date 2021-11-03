@@ -1,0 +1,197 @@
+.curriculum {
+  max-width: 1095px;
+  border-radius: 4px;
+  background-color: #1c1c21;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 2px 4px 0 rgba(0, 0, 0, 0.19);
+  align-self: center;
+  margin: auto;
+  
+}
+.curriculummain {
+  background-color: #151519;
+  padding-top: 50px;
+  width: 100%;
+  padding-top: 40px;
+}
+.circulum-image img {
+  width: auto;
+}
+.image-container {
+  max-width: 100%;
+}
+.details-on-curriculu {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -0.36px;
+  line-height: 47px;
+  padding-top: 43px;
+  padding-bottom: 15px;
+  font-family: "Open Sans";
+}
+.full-stack-developer {
+  color: #ffffff;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+  line-height: 25px;
+  padding-top: 30px;
+  text-align: left;
+  padding-left: 41px;
+}
+.python {
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 18px;
+  letter-spacing: -0.18px;
+  line-height: 27px;
+  text-align: left;
+  padding-left: 41px;
+}
+.become-a-full-stack {
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 18px;
+  letter-spacing: -0.16px;
+  line-height: 29px;
+  text-align: left;
+  padding-left: 41px;
+  padding-right:10px;
+}
+.detailed-curriculum {
+  background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: -0.18px;
+  line-height: 24px;
+  text-align: left;
+  padding-left: 41px;
+  padding-bottom: 30px;
+}
+
+.row-align {
+  margin: auto;
+  justify-content: center;
+}
+.curriculummain-background {
+  max-width: 1400px;
+  margin: auto;
+}
+@media screen and (max-width: 600px) {
+  .image-container img {
+    max-width: 100%;
+    margin: auto;
+  }
+  .details-on-curriculu {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: -0.16px;
+    line-height: 24px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+  }
+  .full-stack-developer {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: -0.14px;
+    line-height: 19px;
+    text-align: left;
+    padding-left: 0px;
+  }
+  .python {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 16px;
+    letter-spacing: -0.14px;
+    line-height: 22px;
+    text-align: left;
+    padding-left: 0px;
+  }
+  .become-a-full-stack {
+    color: rgba(255, 255, 255, 0.82);
+    font-family: "Open Sans";
+    font-size: 14px;
+    letter-spacing: -0.13px;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 0px;
+  }
+  .detailed-curriculum {
+    background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: -0.13px;
+    line-height: 16px;
+    text-align: left;
+    padding-left: 0px;
+    padding-bottom: 10px;
+  }
+  .curriculummain {
+    padding-top: 30px;
+  }
+}
+
+@media (min-width: 601px) and (max-width: 1150px) {
+  .image-container img {
+    width: 100%;
+    margin: auto;
+  }
+  .full-stack-developer {
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: -0.14px;
+    line-height: 19px;
+    text-align: left;
+    padding-left: 32px;
+  }
+  .become-a-full-stack {
+    font-size: 16px;
+    letter-spacing: -0.13px;
+    line-height: 20px;
+    text-align: left;
+    padding-left: 32px;
+  }
+  .detailed-curriculum {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.13px;
+    line-height: 16px;
+    text-align: left;
+    padding-left: 32px;
+    padding-bottom:40px;
+  }
+  .python {
+    font-size: 14px;
+    letter-spacing: -0.14px;
+    line-height: 22px;
+    text-align: left;
+    padding-left: 32px;
+  }
+  .details-on-curriculu {
+    font-size: 30px;
+    font-weight: 500;
+    letter-spacing: -0.16px;
+    line-height: 24px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+  }
+  .curriculim-textpadding {
+    padding-left: 50px;
+  }
+  .curriculummain {
+    padding-top: 40px;
+}
+}

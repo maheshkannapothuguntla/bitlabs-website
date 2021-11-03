@@ -1,0 +1,228 @@
+.refermain {
+    background-image: url("../assets/Final Refer and Earn header image.png");
+    height: 700px;
+    background-size: 100vw 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
+  @media screen and (max-width: 576px) {
+    .refermain {
+        height: 605px;
+        background-image: url("../assets/ReferEarn.png");
+        background-size: 100vw 605px;
+        
+      }
+  }
+ 
+.refer-img-width {
+   width:28%;
+   
+}
+.faq-list {
+    color: #ffffff;
+    font-size: 2rem !important;
+    font-weight: 500;
+    letter-spacing: -0.36px;
+    line-height: 47px;
+    text-align: center;
+
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+}
+.mentors {
+    padding-top: 33px;
+}
+.refer-colors {
+    background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+}
+.txt-size {
+    font-size: 24px !important;
+}
+.resp-alignment {
+    margin-top: 10px !important;
+}
+@media screen and (max-width: 998px) {
+    .resp-alignment {
+        margin-top: 70px !important;
+    }
+    .refermain {
+    background-image: url("../assets/Final Refer and Earn header image.png");
+    height: 690px;
+    background-size: 100vw 690px;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
+}
+.line_height {
+    line-height: 0px !important;
+    padding-bottom: 0px !important;
+}
+/* .how_it_works {
+    color: #ffffff;
+
+    font-size: 2rem !important;
+    font-weight: 500;
+    letter-spacing: -0.36px;
+    line-height: 55px;
+    padding-top: 35px;
+    padding-bottom: 13px;
+} */
+.refern_btn {
+    position: absolute;
+    margin: 22%;
+    margin-left: 40%;
+   
+}
+.refer_btn_width{
+    width: 300px;
+}
+@media screen and (max-width: 2050px) { 
+    .refer_btn_width{
+    width: 380px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 26%;
+    margin-left: 38%;
+}
+}
+@media screen and (max-width: 1950px) { 
+    .refer_btn_width{
+    width: 380px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 28%;
+    margin-left: 38%;
+}
+}
+@media screen and (max-width: 1800px) { 
+    .refer_btn_width{
+    width: 300px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 30%;
+    margin-left: 38%;
+}
+}
+@media screen and (max-width: 1750px) { 
+    .refer_btn_width{
+    width: 280px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 33%;
+    margin-left: 35%;
+}
+}
+@media screen and (max-width: 1700px) { 
+    .refer_btn_width{
+    width: 280px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 34%;
+    margin-left: 38%;
+}
+}
+@media screen and (max-width: 1650px) { 
+    .refer_btn_width{
+    width: 280px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 35%;
+    margin-left: 38%;
+}
+}
+@media screen and (max-width: 1500px) { 
+    .refer_btn_width{
+    width: 280px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 38%;
+    margin-left: 38%;
+}
+}
+@media screen and (max-width: 1445px) { 
+    .refer_btn_width{
+    width: 250px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 40%;
+    margin-left: 40%;
+}
+}
+@media screen and (max-width: 1025px) { 
+    .refer_btn_width{
+    width: 200px;
+}
+.refern_btn {
+    position: absolute;
+    margin: 55%;
+    margin-left: 40%;
+   
+}
+}
+@media screen and (max-width: 770px) {
+    .refermain {
+        height: 600px;
+        background-image: url("../assets/ReferEarn.png");
+        background-size: 100vw 600px; 
+        width: 100%;  
+        /* background-size:auto */
+      }
+    .refern_btn {
+        position: absolute;
+        margin: 65%;
+        margin-left: 20%;
+       
+    }
+    .refer_btn_width{
+        width: 200px;
+    }
+}
+@media screen and (max-width: 430px) {
+    .refern_btn {
+        position: absolute;
+      margin: 40%;
+      margin-top: 120%;
+        margin-left: 5%;
+       
+    }
+    .refer_btn_width{
+        width: 180px;
+    }
+}
+@media screen and (max-width: 380px) {
+    .refern_btn {
+        position: absolute;
+      margin: 40%;
+      margin-top: 135%;
+        margin-left: 5%;
+       
+    }
+    .refer_btn_width{
+        width: 180px;
+    }
+}
+@media screen and (max-width: 325px) {
+    .refern_btn {
+        position: absolute;
+      margin: 40%;
+      margin-top: 160%;
+        margin-left: 4%;
+       
+    }
+    .refer_btn_width{
+        width: 200px;
+    }
+   
+}

@@ -1,0 +1,264 @@
+.padding-privacy {
+  color:white;
+    font-size: 34px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align:center;
+    padding-top:50px;
+    padding-bottom: 20px;
+  }
+  /* .border-styles{
+
+  } */
+
+  .spacebetween-jobready{
+    padding-top: 40px;
+  }
+  .lucky-draw-form-body{
+    padding-top: 50px;
+  }
+  .lucky-dropwn{
+    padding-top: 25px;
+  }
+  .Priv-content{
+    background-color: #212529 ;
+    
+  }
+  .lead_sorce{
+    display: none;
+  }
+ .privacy-whole {
+  background-color:#151519;
+ }
+  .paragraph-main{
+    color:white;
+font-weight: bold;
+letter-spacing: 1.5px;
+  }
+  .terms-of-use-subheading {
+    background-image: linear-gradient(90deg, #ffae2a 0%, rgb(173, 28, 28) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    font-size: 22px;
+    /* font-weight: 500; */
+    letter-spacing: 0;
+    line-height: 28px;
+    padding-top: 20px;
+    text-align: left;
+  }
+  .footer-alignment {
+        margin-bottom: 0px;
+   
+}
+.padding-text{
+  padding-left: 20px;
+}
+.AutoAdjust{
+  width: 100%;
+  max-width: 1400px;
+  margin: auto;
+ 
+}
+.privacy-whole{
+  background-color: #151519;
+  width: 100%;
+ /* align-content:  center; */
+}
+  .text-styling{
+    padding-left:40px;
+    padding-right: 40px;
+    max-width: 1400px;
+    margin: auto;
+    
+    
+  }
+
+  .text-bor{
+    padding-left:15px;
+    padding-right: 15px;
+    overflow: auto;
+    margin: auto;
+    background-color: #212529;
+   
+  }
+ .paragraph{
+   color:white;
+ }
+ .unorderedList{
+   color:white;
+  
+ }
+ .Privacy-Padding{
+   padding-top: 20px;
+   padding-bottom: 20px;
+  
+ }
+ .Privacy-logo{
+   float:left;
+  
+ }
+ .Privacy-header{
+  padding-top:20px;
+   padding-bottom: 20px;
+   padding-left:40px;
+   padding-right: 40px;
+ }
+ .Privacy-header{
+   background:#151519;
+ }
+ .privacy-back{
+  max-width: 1400px;
+    margin: auto;
+ }
+ .BackTo{
+   padding-top: 17px;
+   padding-left:30px;
+ }
+ @media screen and (max-width: 450px) {
+    
+  .text-styling{
+    padding-left:10px;
+    padding-right: 10px;
+  }
+  .padding-privacy {
+    font-size: 20px;
+    padding-top:30px ;
+    padding-bottom:0px;
+  }
+  .Privacy-header{
+    padding-top:10px;
+     padding-bottom: 20px;
+     padding-left:10px;
+     padding-right: 10px;
+   }
+   .BackTo{
+    padding-top: 17px;
+    padding-left:0px;
+  }
+  .Bitlabs-Text {
+    color: gainsboro;
+    margin-left: 10px;
+}
+.Privacy-logo{
+padding-right: 10px;
+padding-left: 10px;
+}
+.terms-of-use-subheading {
+  background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  font-size: 18px;
+}
+.footer-prive {
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.padding-privacy {
+font-size: 20px;
+padding-top:30px ;
+
+}
+ }
+ @media (min-width: 650px) and (max-width: 889px) {
+
+  .header-menu {
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.text-styling{
+  padding-left:25px;
+  padding-right: 25px;
+
+}
+.padding-privacy {
+  font-size: 26px;
+  font-weight: 500;
+  padding-top:30px ;
+  
+}
+
+}
+@media (min-width: 650px) and (max-width: 889px) {
+
+  .text-styling{
+    padding-left:25px;
+    padding-right: 25px;
+  }
+  .header {
+    background-color: #151519;
+    padding-bottom: 0px;
+}
+.padding-privacy {
+  font-size: 26px;  
+  font-weight: 500;
+  padding-top:30px ;
+  padding-bottom:5px;
+}
+
+
+}
+@media screen and (max-width: 768px) {
+  .image-lucky-draw{
+    display: none;
+  }
+  .spacebetween-jobready{
+    padding-top: 20px;
+  }
+
+}
+@media screen and (min-width:1400px){
+  .AutoAdjust{
+    width: 100%;
+    max-width: 1400px;
+    margin: auto;
+    padding-left: 66px;
+   
+  }
+}
+@media (min-width: 890px) and (max-width: 992px) {
+  .text-styling {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.padding-privacy {
+  font-size: 26px;
+  font-weight: 500;
+  padding-top:30px ;
+  padding-bottom: 20px;
+}
+
+}
+/* @media (min-width:768px) and (max-width:1023px) {
+  .lucky-draw-responsive{
+    height:101vh;
+  }
+}
+*/
+@media (min-width:1024px) and (max-width:1366px) {
+  .lucky-draw-responsive{
+    height:138vh;
+  }
+} 
+@media (min-width:1366px) and (max-width:2560px) {
+  .lucky-draw-responsive{
+    height:136vh;
+  }
+}
+@media screen and (max-width: 789px){
+  .take-a-step-towards-lucky-draw {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.21px;
+    line-height: 50px;
+    padding-bottom: 20px;
+    text-align: left;
+    padding-right: 208px;
+}
+}

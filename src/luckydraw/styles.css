@@ -1,0 +1,309 @@
+.form-main-drawn {
+    background-color: #1c1c21;
+    width: 100%;
+ 
+  }
+  /* #Footer-drawn{
+     bottom:0px; height:194px; left:0px; right:0px;background-color:#151519 ;
+      
+  } */
+  .dropdown{
+    padding-top:0px;
+  }
+
+  .form-group {
+    margin-bottom: 0rem;
+}
+  .form-control {
+    width: 50%;
+    height: 50px;
+  }
+  .btn-bitlabs {
+    width: 140px;
+    height: 45px;
+    border-radius: 29.5px;
+    background: linear-gradient(90deg, #ffae2a 0%, #e55519 90%);
+    border-color: transparent;
+    border-width: 0px;
+  }
+  .button-send {
+    margin-right: 340px;
+    display: inline-block;
+    padding-top: 15px;
+  }
+  .textcolor-form {
+    color: white;
+    text-align: left;
+    padding-bottom: 10px;
+  }
+  .take-a-step-towards-draw {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 500;
+    letter-spacing: -0.21px;
+    line-height: 50px;
+    padding-bottom: 20px;
+    text-align: left;
+  }
+  .form-class {
+    display: none;
+  }
+  .send {
+    color: #ffffff;
+    font-family: "Nunito";
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0.16px;
+    line-height: 14px;
+  }
+  .bag-form-main {
+    max-width: 1400px;
+    margin: auto;
+  }
+  .confirmID-message-draw{
+    background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 42px;
+    letter-spacing: -0.14px;
+    font-family: "Open Sans";
+    
+    line-height: 36px;
+  }
+  .form-height{
+    /* padding-top:30px; */
+    max-width: 100%;
+    /* max-width: 70%; */
+  }
+ 
+  @media (min-width:760px) and (max-width: 800px) {
+
+    .form-image{
+      padding-top: 120px;
+    }
+    .take-a-step-towards-draw {
+      color: #FFFFFF;
+      font-size: 18px;
+      font-weight: 500;
+      letter-spacing: 0.32px;
+      line-height: 27px;
+      text-align: center;
+      padding-bottom: 15px;
+      padding-top: 15px;
+    }
+  }
+ 
+  @media (min-width: 1200px) and (max-width: 1300px) {
+    .confirmID-message-draw{
+      background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -moz-background-clip: text;
+      -moz-text-fill-color: transparent;
+      font-family: "Open Sans";
+      font-weight: bold;
+      font-size: 18px;
+      color: #ffffff;
+      text-align: center;
+      letter-spacing: -0.14px;
+      font-family: "Open Sans";
+      
+      line-height: 36px;
+    }
+ 
+    .take-a-step-towards-draw {
+      color: #FFFFFF;
+      font-size: 18px;
+      font-weight: 500;
+      letter-spacing: 0.32px;
+      line-height: 27px;
+      text-align: center;
+      padding-bottom: 15px;
+      padding-top: 15px;
+    }
+  
+  }
+  @media screen and (max-width: 789px) {
+    .take-a-step-towards-draw {
+      color: #FFFFFF;
+      font-size: 18px;
+      font-weight: 500;
+      letter-spacing: 0.32px;
+      line-height: 27px;
+      text-align: center;
+      padding-bottom: 15px;
+      padding-top: 15px;
+    }
+    .form-main {
+      padding-bottom: 30px;
+  }
+    .form-height{
+      padding-top:30px;
+      max-width: 100%;
+    }
+    .group-19 {
+      height: 173px;
+      width: 296px;
+    }
+    .rectangle {
+      box-sizing: border-box;
+      height: 45.5px;
+      width: 296.1px;
+      border: 0.7px solid #979797;
+      border-radius: 2.8px;
+      background-color: #FFFFFF;
+    }
+    .send {
+      height: 34px;
+      width: 152px;
+    }
+    .form-control {
+      width: 100%;
+      height: 60px;
+    }
+    .btn-bitlabs {
+      height: 50px;
+      width: 170px;
+      border-radius: 29.5px;
+      background: linear-gradient(90deg, #ffae2a 0%, #e55519 90%);
+      border-color: transparent;
+      border-width: 0px;
+    }
+    .button-send {
+      margin-right: 2px;
+      display: inline-block;
+      padding-top: 15px;
+    }
+    .confirmID-message-draw{
+      background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -moz-background-clip: text;
+      -moz-text-fill-color: transparent;
+      font-family: "Open Sans";
+      font-weight: bold;
+      font-size: 12px;
+      color: #ffffff;
+      text-align: center;
+      letter-spacing: -0.14px;
+      font-family: "Open Sans";
+ 
+      line-height: 36px;
+    }
+  
+   
+  }
+  @media (min-width: 790px) and (max-width: 1200px) {
+    .image-container img {
+      width: 100%;
+      margin: auto;
+    }
+    .form-image{
+      padding-top: 120px;
+    }
+    .take-a-step-towards-draw {
+      color: #FFFFFF;
+      font-size: 23px;
+      font-weight: 500;
+      letter-spacing: 0.32px;
+      text-align: center;
+      padding-bottom: 20px;
+      padding-top: 15px;
+    }
+    .form-control {
+      width: 90%;
+      height: 60px;
+    }
+    .btn-bitlabs {
+      height: 50px;
+      width: 170px;
+      border-radius: 29.5px;
+      background: linear-gradient(90deg, #ffae2a 0%, #e55519 90%);
+      border-color: transparent;
+      border-width: 0px;
+      align-items: center;
+    }
+    .button-send {
+      margin-right: 55px;
+      display: inline-block;
+      padding-top: 15px;
+    }
+    .form-height{
+      padding-top:30px;
+      max-width: 100%;
+    }
+    .confirmID-message-draw{
+      background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -moz-background-clip: text;
+      -moz-text-fill-color: transparent;
+      font-family: "Open Sans";
+      font-weight: bold;
+      font-size: 16px;
+      color: #ffffff;
+      text-align: center;
+      line-height: 42px;
+      letter-spacing: -0.14px;
+      font-family: "Open Sans";
+  
+      line-height: 36px;
+    }
+  }
+ 
+  @media (min-width: 1260px) and (max-width:1440px) {
+    .padding-top-drawn {
+      height:77vh;
+    }
+  }
+  @media (min-width: 1460px) and (max-width:2700px) {
+    .padding-top-drawn {
+      height:86vh;
+    }
+  }
+  @media (min-width:1440px) and (max-width:2550px) {
+    .confirmID-message-draw{
+      background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -moz-background-clip: text;
+      -moz-text-fill-color: transparent;
+      font-family: "Open Sans";
+      font-weight: bold;
+      font-size: 18px;
+      color: #ffffff;
+      text-align: center;
+      line-height: 42px;
+      letter-spacing: -0.14px;
+      font-family: "Open Sans";
+      padding-right: 260px;
+      line-height: 36px;
+    }
+
+  }
+  @media (min-width:1200px) and (max-width:1440px) {
+    .confirmID-message-draw{
+      background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      -moz-background-clip: text;
+      -moz-text-fill-color: transparent;
+      font-family: "Open Sans";
+      font-weight: bold;
+      font-size: 18px;
+      color: #ffffff;
+      text-align: center;
+      line-height: 42px;
+      letter-spacing: -0.14px;
+      font-family: "Open Sans";
+      padding-right:161px;
+      line-height: 36px;
+    }
+  }

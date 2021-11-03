@@ -25,7 +25,7 @@ export default () => {
       counter("count3", 0, 2000, 800);
     });
   }, [0]);
-  return ( 
+  return (
     <div className="advantagemain" >
       <div className="advantagemain-background">
         <p className="world-class-learning-advantage">
@@ -41,7 +41,7 @@ export default () => {
               // width="42px"
               // height="44px"
             />
-            <p className="softskill-training"> 
+            <p className="softskill-training">
               {/* Personalised Attention for All Students */}
               {section2.items[0].title1}
             </p>

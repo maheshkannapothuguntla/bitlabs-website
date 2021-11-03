@@ -1,0 +1,146 @@
+.placement-main {
+  background-color: #151519;
+  width: 100%;
+}
+.space {
+  padding-left: 2px;
+}
+.textcolor-bitlabs {
+  font-size: 22px;
+  color: #ffffff;
+  line-height: 42px;
+  letter-spacing: -0.14px;
+  font-family: "Open Sans";
+}
+.bit-labs-placement-pr {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -0.36px;
+  line-height: 47px;
+  text-align: center;
+  padding-bottom: 15px;
+  padding-top: 20px;
+  font-family: "Open Sans";
+}
+.get-noticed {
+  background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  font-size: 28px;
+  font-weight: 500;
+  letter-spacing: -0.25px;
+  line-height: 33px;
+  padding-left: 105px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  text-align: left;
+  padding-left: 0px;
+ 
+}
+.lorem-ipsum-dolor-si-1 {
+  color: rgba(255, 255, 255, 0.82);
+  font-family: "Open Sans";
+  font-size: 18px;
+  letter-spacing: -0.16px;
+  line-height: 29px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+.bg-placement-main {
+  max-width: 1400px;
+  margin: auto;
+  padding-bottom: 5px;
+}
+@media (min-width: 540px) and (max-width: 766px) {
+  .image-container img {
+    width: 100%;
+    margin: auto;
+  }
+  .lorem-ipsum-dolor-si-1 {
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-top:0px;
+    text-align: center;
+  }
+  .get-noticed {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    padding-top:10px;
+    padding-bottom:0px;
+    text-align: center;
+    
+  }
+
+}
+
+@media (min-width: 767px) and (max-width: 1200px) {
+  .image-container img {
+    width: 100%;
+    margin: auto;
+  }
+  .bit-labs-placement-pr {
+    color: #ffffff;
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: 0.32px;
+    padding-left:0px;
+    text-align: center;
+    padding-top:3px;
+    
+  }
+  .bg-placement-main {
+    padding-bottom: 24px;
+}
+  .lorem-ipsum-dolor-si-1{
+    font-size: 11px;
+    padding-bottom: 10px;
+    padding-top:0px;
+  }
+  .get-noticed {
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    padding-top:10px;
+    padding-bottom:0px;
+  }
+}
+@media screen and (max-width: 539px) {
+  .bit-labs-placement-pr {
+    color: #ffffff;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 0.32px;
+    padding-left:8px;
+    text-align: center;
+    padding-bottom: 0px;
+    padding-right: 8px;
+  }
+  .lorem-ipsum-dolor-si-1 {
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 15px;
+    padding-bottom: 10px;
+    padding-top:0px;
+  }
+  .get-noticed {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    padding-top:10px;
+    padding-bottom:0px;
+    text-align: left;
+    
+  }
+  img {
+    max-width: 100%;
+  }
+  .space {
+    padding-left: 0px;
+  }
+ 
+}

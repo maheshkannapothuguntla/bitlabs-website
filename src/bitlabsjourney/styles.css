@@ -1,0 +1,130 @@
+.journy-main {
+  background-color: #151519;
+  padding-bottom: 25px;
+  padding-top: 40px;
+}
+.bitlanjourny-images {
+  display: none;
+}
+.bitlab-journey {
+ max-width: 1050px;
+}
+.your-bit-labs-journey {
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 40px;
+  font-weight: 500;
+  letter-spacing: -0.36px;
+  line-height: 55px;
+  padding-bottom: 23px;
+}
+.sign-up-to-bit-labs {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: left;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.fill-up-the-form-bel {
+  color: rgba(255, 255, 255, 0.82);
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 24px;
+  text-align: left;
+}
+.bg-journy-main {
+  max-width: 1400px;
+  margin: auto;
+}
+.sign-up-to-bit-labs-mentor {
+  background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: left;
+  padding-top: 40px;
+  padding-bottom: 10px;
+}
+@media screen and (max-width: 767px) {
+  .bitlab-journey {
+    display: none;
+  }
+  .your-bit-labs-journey {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: -0.16px;
+    line-height: 24px;
+    text-align: center;
+    padding-bottom: 18px;
+  }
+  .journy-main {
+    padding-bottom: 6px;
+    padding-top: 28px;
+}
+  .padding-top {
+    padding-top: 0px;
+  }
+  .sign-up-to-bit-labs-mentor {
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 19px;
+    text-align: center;
+    padding-left: 0px;
+  }
+  .fill-up-the-form-bel {
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: 21px;
+    text-align: center;
+  }
+  .bitlanjourny-images {
+    display: list-item;
+    padding-bottom: 30px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1258px) {
+  image-container {
+    max-width: 100%;
+  }
+  .bitlab-journey{
+    max-width: 75%;
+    padding-top: 40px;
+  }
+  .your-bit-labs-journey {
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: -0.16px;
+    line-height: 24px;
+    text-align: center;
+    padding-bottom: 0px;
+  }
+  .img-optimise{
+    max-width: 140px;
+    height: 55px;
+  }
+  .sign-up-to-bit-labs-mentor {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: left;
+    padding-left: 0px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  
+}

@@ -1,0 +1,470 @@
+.footer-main {
+  background-color: #151519;
+  text-align: left;
+  width: 100%;
+  padding-left: 50px;
+}.modal-content{
+  background-color: #151519;
+}
+/* .privacy-back{
+  background-color:#151519 ;
+  width: 100%;
+}
+.Privacy-header{
+  max-width: 1400px;
+  margin: auto;
+} */
+/* .modal-body{
+  overflow-y: scroll;
+} */
+.phone-style{
+  font-size:16px;
+  color:#ffae2a;
+}
+.pointer{
+  cursor: pointer;
+}
+.address
+{
+  padding-top:13px;
+}
+.p-bottom{
+  margin-bottom:1px;
+}
+.mainaddress{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.close{
+  color:white;
+margin-top: 25px;
+}
+.tekwork-address{
+  margin-top: 10px;
+}
+.close:hover {
+color: white;
+margin-top: 25px;
+}
+.terms-of-use{
+  background-color: #151519;
+}
+.grab { cursor: pointer;}
+.footer-padding {
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.why-bit-labs-footer {
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+.footer-address{
+  color: #ffffff;
+  font-family: "Open Sans";
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-bottom: 0px;
+}
+ul {
+  list-style-type: none;
+}
+.iconimage{
+  width: 40px;
+  height:40px;
+}
+.iconimages{
+  width: 48px;
+  height:48px;
+}
+.footer-solialmedia {
+  margin-right: 10px;
+}
+.bg-footer-main {
+  max-width: 1400px;
+  margin: auto;
+}
+.footer-menu {
+  padding-left: 720px;
+  padding-top: -100px;
+}
+/* .footer-logo-width {
+  width: 158px;
+  height: 44px;
+} */
+.footer-main-mobile {
+  display: none;
+}
+@media screen and (max-width: 450px) {
+  .iconimage{
+    width: 25px;
+    height:25px;
+  }
+  .iconimages{
+    width: 32px;
+    height: 32px;
+  }
+  .address
+  {
+    padding-left:0px;
+    text-align: center;
+  }
+  .footer-address{
+    font-size: 14px;
+  }
+  .footer-logo-width {
+   padding-left: 0px;
+   max-width: none;
+  }
+  .logoset{
+    padding-top: 5px;
+    padding-left: 0px;
+  }
+  .footer-main-mobile {
+    display: block;
+  }
+  .why-bit-labs-footer {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 30px;
+  }
+  .footer-alignment {
+    padding-top: 10px;
+   justify-content: center;
+  }
+  .padding-footer {
+    padding-left: 0px;
+  }
+  .align-image {
+    padding-left: 5px;
+  }
+  .align-images {
+    padding-top: 17px;
+    text-align: right;
+  }
+  .footer-placement {
+    justify-content: center;
+  
+    padding-bottom: 50px;
+  }
+  .footer-main-desktops {
+    display: none;
+  }
+  .footer-main {
+    padding-left: 10px;
+}
+.footer-padding {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-right: 5px;
+}
+.whyb{
+  text-align: left;
+  padding-left:2px;
+  padding-right:0px;
+}
+.cur{
+  text-align: left;
+  padding-left:2px;
+  padding-right:0px;
+}
+.howi{
+  text-align: left;
+  padding-left:2px;
+  padding-right:2px;
+}
+.privacy{
+  text-align: left;
+  padding-left: 2px;
+}
+.close{
+  color:white;
+  margin-top: 25px;
+}
+}
+@media (min-width: 451px) and (max-width: 649px) {
+  .iconimage{
+    width: 40px;
+    height:40px;
+  }
+  .footer-logo-width {
+   padding-left: 0px;
+    max-width: none;
+  }
+  .footer-main-mobile {
+    display: block;
+  }
+  .why-bit-labs-footer {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 30px;
+  }
+  .footer-alignment {
+    padding-top: 30px;
+  }
+  .padding-footer {
+    padding-left: 0px;
+  }
+  .align-image {
+    padding-left: 5px;
+  }
+  .align-images {
+    padding-top: 6px;
+    text-align: right;
+  }
+  .footer-placement {
+    padding-bottom: 50px;
+  }
+  .footer-main-desktops {
+    display: none;
+  }
+  .footer-main {
+    padding-left: 10px;
+    text-align: justify;
+}
+.address {
+  padding-top: 15px;
+  padding-left:10px ;
+}
+.footer-padding {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+ .whyb{
+   text-align: left;
+   padding-left:10px;
+   padding-right:10px;
+ }
+ .cur{
+   text-align: left;
+   padding-left:10px;
+   padding-right:10px;
+ }
+ .howi{
+   text-align:left;
+   padding-left:10px;
+   padding-right:10px;
+ }
+ .iconimages{
+    width: 49px;
+    height: 49px;
+}
+.privacy{
+  text-align: left;
+  padding-left: 5px;
+}
+.close{
+  color:white;
+  margin-top: 25px;
+}
+.text-styling{
+  padding-left:10px;
+  padding-right: 10px;
+}
+.padding-privacy {
+  font-size: 20px;
+  padding-top:30px ;
+  padding-bottom:0px;
+}
+.Privacy-header{
+  padding-top:10px;
+   padding-bottom: 20px;
+   padding-left:10px;
+   padding-right: 10px;
+ }
+ .BackTo{
+  padding-top: 17px;
+  padding-left:0px;
+}
+.Bitlabs-Text {
+  color: gainsboro;
+  margin-left: 10px;
+}
+.Privacy-logo{
+padding-right: 10px;
+padding-left: 10px;
+}
+.terms-of-use-subheading {
+background-image: linear-gradient(90deg, #ffae2a 0%, rgb(231, 19, 19) 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+-moz-background-clip: text;
+-moz-text-fill-color: transparent;
+font-size: 18px;
+}
+.footer-prive {
+padding-left: 10px;
+padding-right: 10px;
+}
+.Footer-pr{
+padding-right:5px;
+padding-left:10px;
+}
+.padding-privacy {
+font-size: 20px;
+padding-top:30px ;
+}
+#Footer{
+background-color:#151519 ;
+}
+#header{
+  position:absolute; top:0px; left:0px; height:80px; right:0px;overflow:hidden;
+}
+#content{
+  position:absolute; top:80px; bottom:303px; left:0px; right:0px; overflow:auto;
+}
+#Footer{
+  position:absolute; bottom:0px; height:303px; left:0px; right:0px;  overflow:hidden;
+}
+}
+@media (min-width: 890px) and (max-width: 1100px) {
+  .footer-main-mobile {
+    display: none;
+  }
+  .address-hide.col-1{
+    display: none;
+  }
+  .footer-main {
+    padding-left: 10px;
+}
+.footer-padding {
+  padding-top: 30px;
+}
+.why-bit-labs-footer {
+  font-size: 17px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+}
+.iconimage{
+  width: 25px;
+  height:25px;
+}
+.iconimages{
+  width: 28px;
+    height: 28px;
+}
+.close{
+  color:white;
+  margin-top: 25px;
+}
+#content{
+  position:absolute; top: 87px;
+  bottom: 202px; left:0px; right:0px; overflow:auto;
+}
+#Footer{
+  position:absolute; bottom:0px; left:0px; right:0px;  overflow:hidden;
+}
+}
+@media (min-width: 650px) and (max-width: 889px) {
+  
+  .footer-main-mobile {
+    display: none;
+  }
+  .address-hide.col-1{
+    display: none;
+  }
+  .why-bit-labs-footer {
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 17px;
+  }
+  .footer-padding {
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+  .footer-address{
+    font-size: 13px;
+  }
+  .address-adjust{
+    padding-bottom: 55px;
+  }
+  .footer-logo-width {
+    float:left;
+  }
+  .footer-main {
+    padding-left: 0px;
+}
+.address
+{
+  padding-top:0px;
+}
+.iconimage{
+  width: 17px;
+  height:17px;
+}
+.ctwo{
+  display:none;
+}
+.iconimages{
+      width: 22px;
+      height: 22px;
+}
+.close{
+  color:white;
+  margin-top: 25px;
+}
+#content{
+  margin-top: 20px;
+  position:absolute; top:80px; left:0px; right:0px; overflow:auto;
+}
+#Footer{
+  position:absolute; bottom:0px;left:0px; right:0px;  overflow:hidden;
+}
+}
+@media (min-width: 1101px) and (max-width: 1261px) {
+  .close{
+    color:white;
+    margin-top: 25px;
+  }
+  #content{
+    position:absolute; top:80px; left:0px; right:0px; overflow:auto;
+  }
+  #Footer{
+    position:absolute; bottom:0px; left:0px; right:0px;  overflow:hidden;
+  }
+  .address-hide.col-1{
+    display: none;
+  }
+}
+@media (min-width: 1261px) and (max-width:1270px) {
+  .close{
+    color:white;
+    margin-top: 25px;
+  } 
+  .address-hide.col-1{
+    display: none;
+  }
+  #content{
+    position:absolute; top:80px;  left:0px; right:0px; overflow:auto;
+  }
+  #Footer{
+    position:absolute; bottom:0px;left:0px; right:0px;  overflow:hidden;
+  }
+}
+@media (min-width: 990px) and (max-width: 2000px) {
+  .address-hide.col-1{
+    display: none;
+  }
+  .address{
+    min-width: 356px;
+  }
+  .footer-address { 
+    font-size: 16px;
+  }
+}

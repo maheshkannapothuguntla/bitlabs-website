@@ -1,0 +1,33 @@
+/* .App {
+    font-family: sans-serif;
+    padding: 1rem 5rem;
+  } */
+
+/* p {
+    border: 1px solid #ddd;
+    padding: 2rem;
+  }
+   */
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  left: 10px;
+  z-index: 99;
+  cursor: pointer;
+  padding: 15px;
+}
+.scroll-div {
+  border-radius: 5px;
+  border: 6px;
+  background-color: #4b4b4b;
+  padding: 5px;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
